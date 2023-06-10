@@ -1,1 +1,1 @@
-# odin-recipes
+# In this project I learned to link webpages from a repository's directory, add images to html files, format a page using ordered and unordered lists, and styling attributes.
