@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, Tahoma, sans-serif;
+    border-style: dashed;
+    border-color: rgb(175, 150, 0);
+    background-color: blanchedalmond;
+    line-height: 1.5;
+}
+
+h1, 
+h2, 
+h3, 
+h4,
+h5 {
+    color:darkgoldenrod;
+    text-decoration: underline;
+    font-size: 25px;
+}
+h1 {
+    font-size: 50px;
+}
+a {
+    text-decoration: none;
+    color: black;
+    border-style: solid;
+    background-color: brown;
+    font-size: 25px;
+}
+.links {
+    list-style: none;
+    line-height: 2;
+}
+img {
+    border-style: solid;
+    border-color: rgb(250, 150, 0);
+    border-width: 5px;   
+}
+.body {
+    text-align: center;
+}
+.ingredient-list {
+    list-style: none;
+}
+.steps .notes {
+    list-style: circle;
+}
+.steps-list { 
+    list-style-position: inside;
+}
+.ingredient-list,
+.steps-list { 
+    text-align: left;
+}
