@@ -1,1 +1,1 @@
-# In this project I learned to link webpages from a repository's directory, add images to html files, format a page using ordered and unordered lists, and styling attributes.
+# In this project I learned to link webpages from a repository's directory, add images to html files, format a page using ordered and unordered lists, and styling attributes. I have also learned how to add styling with css using classes and attributes. (I didnt use any IDs)
