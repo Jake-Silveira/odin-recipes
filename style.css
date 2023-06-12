@@ -50,3 +50,8 @@ img {
 .steps-list { 
     text-align: left;
 }
+.image {
+    max-width: 100%;
+    height: auto;
+    width: auto\9;
+}
